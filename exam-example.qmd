@@ -1,0 +1,22 @@
+---
+title: "Exam with MCQs"
+format:
+  pdf:
+    toc: true
+filters:
+  - unilur-core.lua
+  - unilur-mcq.lua
+---
+
+## Section A: Choose the correct answer
+
+::: {.unilur-mcq}
+- [ ] Apple
+- [ ] Banana
+- [ ] Carrot
+:::
+
+::: {.unilur-mcq}
+- ( ) True
+- ( ) False
+:::
