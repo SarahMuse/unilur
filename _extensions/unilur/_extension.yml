@@ -7,6 +7,7 @@ contributes:
     common:
       filters:
         - unilur.lua
+        - unilur-exam.lua
     html: default
     html+solution:
       show-solution: true
